@@ -1,0 +1,4 @@
+# TODO: Configurar projeto como um todo, dessa forma deve-se configurar variáveis de ambiente, dockerfile, docker compose, docker compose para debug
+# TODO: Configurar Swagger para API
+# TODO: Validar dependências
+# TODO: Aguardar a modelagem de dados para iniciar a criação de apps
